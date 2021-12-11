@@ -46,3 +46,11 @@ __Melhoria 1__, _melhoria 2_
 Contribuidor Principal: https://github.com/MathBR18
 
 [![lOGO js](https://reactjs.org/logo-og.png)](https://github.com/MathBR18)
+
+## Código da função soma
+
+```javascript
+function soma (a,b){
+ return a + b;
+}
+```
