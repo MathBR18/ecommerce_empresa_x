@@ -36,3 +36,7 @@ __Melhoria 1__, _melhoria 2_
 #### Imagem externa
 
 ![Logo do React](https://reactjs.org/logo-og.png)
+
+## Links interessantes:
+
+[Google](https://www.google.com/)
