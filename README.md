@@ -32,3 +32,7 @@ __Melhoria 1__, _melhoria 2_
 #### Imagem local
 
 ![Logo do Js](img/jslogo.png)
+
+#### Imagem externa
+
+![Logo do React](https://reactjs.org/logo-og.png)
